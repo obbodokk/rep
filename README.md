@@ -5,7 +5,7 @@
 [//]: # (Автор: Даниил)
 
 <!-- PROJECT LOGO -->
-![Food Diary Screenshot](https://via.placeholder.com/800x400?text=Food+Diary+Screenshot)
+![Food Diary Screenshot]([https://via.placeholder.com/800x400?text=Food+Diary+Screenshot](https://www.flaticon.com/ru/free-icon/restaurant_562678?term=%D0%B5%D0%B4%D0%B0&page=1&position=1&origin=tag&related_id=562678))
 
 <!-- TABLE OF CONTENTS -->
 
