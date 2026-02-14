@@ -61,7 +61,6 @@ ____________
 | Название        | Ссылка                      | Логотип                                                    |
 |-----------------|-----------------------------|------------------------------------------------------------|
 | Python          | https://python.org          | <img src="https://python.org/favicon.ico" width="50" />   |
-| Tkinter         | https://docs.python.org/3/library/tkinter.html | <img src="https://via.placeholder.com/50?text=Tk" width="50" /> |
 | SQLite          | https://sqlite.org          | <img src="https://sqlite.org/favicon.ico" width="50" />   |
 | GitHub Actions  | https://github.com/features/actions | <img src="https://github.githubassets.com/favicons/favicon.svg" width="50" /> |
 
