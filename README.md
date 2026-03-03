@@ -157,11 +157,6 @@ todo: добавить экспорт отчетов в PDF...
 4. Отправьте изменения в ветку (`git push origin feature/AmazingFeature`)
 5. Откройте pull request
 
-### Основные участники:
-
-[![Top contributors image](https://contrib.rocks/image?repo=obbodokk/food-diary)](https://github.com/obbodokk/food-diary/graphs/contributors)
-<p align="right">(<a href="#readme-top">вернуться к началу</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
